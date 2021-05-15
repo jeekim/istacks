@@ -69,6 +69,8 @@
 - https://christophm.github.io/interpretable-ml-book/
 
 ### ml
+- https://developers.google.com/ml-kit
+- https://rapids.ai/index.html
 
 ### dl
 - https://www.tensorflow.org/
@@ -76,8 +78,7 @@
 - https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/
 
 ### ir
-- 
-https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-types.html
+- https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-types.html
 
 ### kg
 - http://snap.stanford.edu/metalearning-ismb/
