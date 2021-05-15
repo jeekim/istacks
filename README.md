@@ -2,6 +2,9 @@
 
 ## Table of Contents
 - [languages](#languages)
+- [data]{#data)
+- [nlp](#nlp)
+- [stats/ai/ml](#stats/ai/ml)
 
 ## languages
 
