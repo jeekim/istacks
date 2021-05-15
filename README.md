@@ -5,15 +5,19 @@
 ### python
 - https://github.com/behave/behave
 
-### javascript
+### javascript/typescript/elm/purescript
 
-### scala
+### scala/sbt
 
 ### clojure
+- https://project-awesome.org/hantuzun/awesome-clojurescript
 
 ### haskell
 
 ### low-code
+- https://powerapps.microsoft.com/en-us/blog/what-is-microsoft-power-fx/
+
+### functional
 
 ### others
 - https://engineering.fb.com/2021/04/29/developer-tools/rust/
@@ -52,6 +56,10 @@
 - https://www.statsmodels.org/stable/index.html
 - https://www.tensorflow.org/tutorials/structured_data/time_series
 
+### ethics/interpretability
+- https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
+- https://pair-code.github.io/what-if-tool/learn/tutorials/walkthrough/
+
 ### ml
 
 ### dl
@@ -60,6 +68,7 @@
 - https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/
 
 ### kg
+- http://snap.stanford.edu/metalearning-ismb/
 
 ## ux/ui/api/visualisation
 - https://wattenberger.com/blog/react-and-d3
