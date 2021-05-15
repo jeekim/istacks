@@ -1,10 +1,19 @@
 # istacks
 
 ## languages
+
 ### python
+
 ### javascript
 
+## Data
+
+### metadata
+
+### engineering
+
 ## AI/ML
+
 ### DL
 
 ## visualisation
