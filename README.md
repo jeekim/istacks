@@ -128,6 +128,7 @@
 - https://github.com/heroku/clojure-getting-started
 - https://www.tecton.ai/blog/devops-ml-data/
 - https://eng.uber.com/michelangelo-machine-learning-platform/
+- https://cloud.google.com/blog/products/ai-machine-learning/best-practices-that-can-improve-the-life-of-any-developer-using-jupyter-notebooks
 
 ## others
 - https://commercejs.com/how-commercejs-works
