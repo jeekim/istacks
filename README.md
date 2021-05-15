@@ -25,6 +25,7 @@
 
 ## data
 - https://analyticsindiamag.com/big-data-to-good-data-andrew-ng-urges-ml-community-to-be-more-data-centric-and-less-model-centric/
+- https://www.datacouncil.ai/blog
 
 ### manifesto
 - https://datapractices.org/manifesto/
@@ -52,9 +53,10 @@
 - https://dbnd.readme.io/docs/monitoring-use-cases
 - https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
 - https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
+- https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained
 
 ## nlp
-
+- https://huggingface.co/
 
 ## stats/ai/ml
 
@@ -71,11 +73,14 @@
 ### ml
 - https://developers.google.com/ml-kit
 - https://rapids.ai/index.html
+- https://github.com/apple/turicreate
+- https://stanford.edu/~shervine/teaching/cs-229/cheatsheet-supervised-learning
 
 ### dl
 - https://www.tensorflow.org/
 - https://keras.io/
 - https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/
+- https://pytorch.org/
 
 ### ir
 - https://www.elastic.co/guide/en/elasticsearch/reference/current/mapping-types.html
@@ -119,3 +124,4 @@
 - https://www.dnb.com/
 - https://www.featurestore.org/
 - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/digital-blog/reflections-on-technology-from-davos-2020
+- https://www.pulumi.com/
