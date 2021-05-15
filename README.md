@@ -1,5 +1,8 @@
 # istacks
 
+## Table of Contents
+- [languages](#languages)
+
 ## languages
 
 ### python
