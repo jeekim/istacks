@@ -1,11 +1,11 @@
-### istacks
+# istacks
 
 ## languages
-# python
-# javascript
+### python
+### javascript
 
 ## AI/ML
-# DL
+### DL
 
 ## visualisation
 
