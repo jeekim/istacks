@@ -36,12 +36,17 @@
 ### others
 - https://engineering.fb.com/2021/04/29/developer-tools/rust/
 
+
+
 ## data
 - https://analyticsindiamag.com/big-data-to-good-data-andrew-ng-urges-ml-community-to-be-more-data-centric-and-less-model-centric/
 - https://www.datacouncil.ai/blog
 
 ### manifesto
 - https://datapractices.org/manifesto/
+
+### pipeline
+- https://beam.apache.org/
 
 ### metadata
 - https://datahubproject.io/
