@@ -5,6 +5,11 @@
 - [data](#data)
 - [nlp](#nlp)
 - [stats ai ml](#stats-ai-ml)
+- [ux ui api visualisation](#ux-ui-api-visualisation)
+- [web mobile](#web-mobile)
+- [iot edge](#iot-edge)
+- [DevSecDataMLOps](#DevSecDataMLOps)
+- [others](#others)
 
 ## languages
 
@@ -95,7 +100,7 @@
 - http://snap.stanford.edu/metalearning-ismb/
 - https://developers.google.com/knowledge-graph#javascript
 
-## ux/ui/api/visualisation
+## ux ui api visualisation
 - https://wattenberger.com/blog/react-and-d3
 - https://airbnb.io/visx/
 
@@ -104,11 +109,11 @@
 
 ### graphql
 
-## web/mobile
+## web mobile
 - https://ionic.io/appflow
 - https://wattenberger.com/blog/react-and-d3
 
-## iot/edge
+## iot edge
 - https://nodered.org/
 
 ## security
