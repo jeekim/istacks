@@ -13,6 +13,8 @@
 
 ### haskell
 
+### low-code
+
 ### others
 - https://engineering.fb.com/2021/04/29/developer-tools/rust/
 
@@ -25,6 +27,12 @@
 ### metadata
 - https://datahubproject.io/
 
+### model
+- https://supermodel.io/
+
+### observability
+- https://github.com/evidentlyai/evidently
+
 ### geo
 - https://geopandas.org/
 
@@ -33,6 +41,7 @@
 - https://www.stitchdata.com/docs/getting-started/basic-concepts-system-overview
 - https://github.com/astronomer/astro-cli
 - https://dbnd.readme.io/docs/monitoring-use-cases
+- https://multithreaded.stitchfix.com/blog/2016/03/16/engineers-shouldnt-write-etl/
 
 ## nlp
 
@@ -54,6 +63,7 @@
 
 ## ux/ui/api/visualisation
 - https://wattenberger.com/blog/react-and-d3
+- https://airbnb.io/visx/
 
 ### us for ml models
 - https://www.gradio.app/
@@ -71,7 +81,11 @@
 
 ## bio/health
 
+## DevSecDataMLOps
+- https://github.com/heroku/clojure-getting-started
+
 ## others
 - https://commercejs.com/how-commercejs-works
 - https://www.keystonejs.com/
 - https://www.anyscale.com/
+- https://dataform.co/
