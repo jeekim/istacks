@@ -23,7 +23,7 @@
 
 ### scala/sbt
 
-### clojure
+### clojure/clojurescript/leiningen
 - https://project-awesome.org/hantuzun/awesome-clojurescript
 
 ### haskell
@@ -75,7 +75,12 @@
 
 ## nlp
 - https://huggingface.co/
+- https://spacy.io/
 - https://github.com/tomohideshibata/BERT-related-papers
+
+### ca
+- https://blog.rasa.com/introducing-rasalit-streamlit-apps-to-explore-rasa-models/?utm_campaign=Product%20Content&utm_content=166542869&utm_medium=social&utm_source=linkedin&hss_channel=lcp-4836263
+
 
 ## stats ai ml
 
@@ -108,14 +113,21 @@
 - http://snap.stanford.edu/metalearning-ismb/
 - https://developers.google.com/knowledge-graph#javascript
 
+
+
 ## ux ui api visualisation
 - https://wattenberger.com/blog/react-and-d3
 - https://airbnb.io/visx/
+- https://observablehq.com/explore
 
 ### us for ml models
 - https://www.gradio.app/
 
 ### graphql
+- https://github.com/apollographql/apollo-server
+
+### 3d
+- https://threejs.org/
 
 ## web mobile
 - https://ionic.io/appflow
@@ -125,9 +137,12 @@
 - https://nodered.org/
 
 ## security
+- https://www.accenture.com/gb-en/services/security-index
 
 ## bio health
 - https://www.nashville.bio/
+- https://www.ebi.ac.uk/
+- http://europepmc.org/
 
 ## DevSecDataMLOps
 - https://github.com/heroku/clojure-getting-started
