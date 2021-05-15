@@ -8,6 +8,8 @@
 - [ux ui api visualisation](#ux-ui-api-visualisation)
 - [web mobile](#web-mobile)
 - [iot edge](#iot-edge)
+- [security](#security)
+- [bio health](#bio-health)
 - [DevSecDataMLOps](#DevSecDataMLOps)
 - [others](#others)
 
@@ -118,7 +120,7 @@
 
 ## security
 
-## bio/health
+## bio health
 - https://www.nashville.bio/
 
 ## DevSecDataMLOps
