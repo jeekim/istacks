@@ -4,7 +4,7 @@
 - [languages](#languages)
 - [data](#data)
 - [nlp](#nlp)
-- [stats/ai/ml](#stats-ai-ml)
+- [stats ai ml](#stats-ai-ml)
 
 ## languages
 
@@ -64,7 +64,7 @@
 ## nlp
 - https://huggingface.co/
 
-## stats/ai/ml
+## stats ai ml
 
 ### stats/time series
 - https://www.statsmodels.org/stable/index.html
