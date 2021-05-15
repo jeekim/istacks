@@ -17,7 +17,7 @@
 ### statics
 ### ML
 ### DL
-- (https://www.tensorflow.org/)
+- https://www.tensorflow.org/
 ### KG
 
 ## visualisation
