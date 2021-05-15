@@ -14,7 +14,11 @@
 
 ## AI/ML
 
+### statics
+### ML
 ### DL
+- (https://www.tensorflow.org/)
+### KG
 
 ## visualisation
 
