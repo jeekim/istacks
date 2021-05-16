@@ -10,6 +10,7 @@
 - [iot edge](#iot-edge)
 - [security](#security)
 - [bio health](#bio-health)
+- [blockchain](#blockchain)
 - [DevSecDataMLOps](#DevSecDataMLOps)
 - [others](#others)
 
@@ -19,7 +20,7 @@
 - https://github.com/behave/behave
 - https://modin.readthedocs.io/en/latest/
 
-### javascript/typescript/elm/purescript
+### javascript/typescript/rescript/purescript/elm
 
 ### scala/sbt
 
@@ -27,6 +28,10 @@
 - https://project-awesome.org/hantuzun/awesome-clojurescript
 
 ### haskell
+- https://hackage.haskell.org/package/base-4.15.0.0/docs/index.html
+
+### rust
+- https://doc.rust-lang.org/book/title-page.html
 
 ### low-code
 - https://powerapps.microsoft.com/en-us/blog/what-is-microsoft-power-fx/
@@ -55,7 +60,7 @@
 ### model
 - https://supermodel.io/
 
-### observability
+### observability/qa
 - https://github.com/evidentlyai/evidently
 
 ### geo
@@ -125,6 +130,7 @@
 
 ### graphql
 - https://github.com/apollographql/apollo-server
+- https://github.com/hasura
 
 ### 3d
 - https://threejs.org/
@@ -138,6 +144,10 @@
 
 ## security
 - https://www.accenture.com/gb-en/services/security-index
+
+
+## blockchain
+- https://www.fpcomplete.com/blog/why-haskell-is-hot-for-cryptocurrencies/
 
 ## bio health
 - https://www.nashville.bio/
@@ -160,3 +170,6 @@
 - https://www.featurestore.org/
 - https://www.mckinsey.com/business-functions/mckinsey-digital/our-insights/digital-blog/reflections-on-technology-from-davos-2020
 - https://www.pulumi.com/
+- https://numfocus.org/
+- http://www.pytables.org/usersguide/tutorials.html
+- https://stackshare.io
