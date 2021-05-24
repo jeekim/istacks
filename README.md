@@ -46,6 +46,7 @@
 ## data
 - https://analyticsindiamag.com/big-data-to-good-data-andrew-ng-urges-ml-community-to-be-more-data-centric-and-less-model-centric/
 - https://www.datacouncil.ai/blog
+- https://www.activeloop.ai/ data to PyTorch and TF
 
 ### manifesto
 - https://datapractices.org/manifesto/
@@ -138,9 +139,11 @@
 ## web mobile
 - https://ionic.io/appflow
 - https://wattenberger.com/blog/react-and-d3
+- https://firebase.google.com
 
 ## iot edge
 - https://nodered.org/
+- https://google.github.io/flatbuffers/
 
 ## security
 - https://www.accenture.com/gb-en/services/security-index
