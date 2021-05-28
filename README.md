@@ -70,6 +70,16 @@
 ### db
 - https://calcite.apache.org/
 
+#### time series db
+- https://www.influxdata.com/ (The platform for building and operating time series applications.)
+
+### data lakes
+- https://lakefs.io/ (atomic versioned data lakes)
+
+### data apps
+- https://streamlit.io/ (The fastest way to build and share data apps)
+- https://github.com/streamlit/streamlit
+
 ### engineering
 - https://medium.com/airbnb-engineering/data-quality-at-airbnb-870d03080469
 - https://www.stitchdata.com/docs/getting-started/basic-concepts-system-overview
@@ -83,6 +93,7 @@
 - https://huggingface.co/
 - https://spacy.io/
 - https://github.com/tomohideshibata/BERT-related-papers
+- https://www.indexventures.com/perspectives/causaly-raises-17-million-to-accelerate-medical-research-drug-discovery-and-delivery-of-scientific-breakthroughs/
 
 ### ca
 - https://blog.rasa.com/introducing-rasalit-streamlit-apps-to-explore-rasa-models/?utm_campaign=Product%20Content&utm_content=166542869&utm_medium=social&utm_source=linkedin&hss_channel=lcp-4836263
@@ -108,6 +119,7 @@
 
 ### dl
 - https://www.tensorflow.org/
+- https://blog.tensorflow.org/
 - https://keras.io/
 - https://ai.facebook.com/blog/flashlight-fast-and-flexible-machine-learning-in-c-plus-plus/
 - https://pytorch.org/
@@ -144,6 +156,7 @@
 ## iot edge
 - https://nodered.org/
 - https://google.github.io/flatbuffers/
+- https://developers.google.com/learn/topics/on-device-ml
 
 ## security
 - https://www.accenture.com/gb-en/services/security-index
@@ -176,3 +189,4 @@
 - https://numfocus.org/
 - http://www.pytables.org/usersguide/tutorials.html
 - https://stackshare.io
+- https://medium.com/codex
