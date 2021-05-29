@@ -4,7 +4,8 @@
 - [languages](#languages)
 - [data](#data)
 - [nlp](#nlp)
-- [stats ai ml](#stats-ai-ml)
+- [stats](#stats)
+- [ai ml](#ai-ml)
 - [ux ui api visualisation](#ux-ui-api-visualisation)
 - [web mobile](#web-mobile)
 - [iot edge](#iot-edge)
@@ -13,6 +14,7 @@
 - [blockchain](#blockchain)
 - [DevSecDataMLOps](#DevSecDataMLOps)
 - [others](#others)
+- [mvt](#mvt)
 
 ## languages
 
@@ -99,12 +101,19 @@
 - https://blog.rasa.com/introducing-rasalit-streamlit-apps-to-explore-rasa-models/?utm_campaign=Product%20Content&utm_content=166542869&utm_medium=social&utm_source=linkedin&hss_channel=lcp-4836263
 
 
-## stats ai ml
+## stats
 
 ### stats/time series
 - https://www.statsmodels.org/stable/index.html
 - https://www.tensorflow.org/tutorials/structured_data/time_series
 - https://stats.idre.ucla.edu/other/mult-pkg/seminars/intro-power/
+
+### survial analysis
+
+### power analysis
+
+
+## ai ml
 
 ### ethics/interpretability
 - https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
@@ -190,3 +199,16 @@
 - http://www.pytables.org/usersguide/tutorials.html
 - https://stackshare.io
 - https://medium.com/codex
+- https://levelup.gitconnected.com/
+- https://www.getcensus.com/ (data to Google Sheets)
+
+## mvt
+- https://corporate-rebels.com/guest-blog-mvt/ (The Minimum Viable Team, A New Team Concept)
+- https://www.allankellyassociates.co.uk/archives/2011/minimally-viable-team-in-a-nutshell/
+- https://medium.com/crafting-empowerment/minimal-viable-team-self-managed-2416a882506d (Minimal Viable Team, self managed)
+
+## stack 1
+- big data -> gsheets -> pivot tables -> observable
+- https://developers.google.com/sheets/api/samples/pivot-tables
+- https://developers.google.com/codelabs/apps-script-fundamentals-1#2
+- https://observablehq.com/@bryangingechen/importing-data-from-google-spreadsheets-into-a-notebook-we?collection=@observablehq/working-with-data
