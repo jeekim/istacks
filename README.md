@@ -91,6 +91,9 @@
 - https://www.grammarly.com/blog/engineering/building-etl-pipelines-with-clojure-and-transducers/
 - https://engineering.linkedin.com/blog/2020/datahub-popular-metadata-architectures-explained
 
+### labelling
+- https://labelbox.com/ (get to production AI faster)
+
 ## nlp
 - https://huggingface.co/
 - https://spacy.io/
@@ -201,11 +204,16 @@
 - https://medium.com/codex
 - https://levelup.gitconnected.com/
 - https://www.getcensus.com/ (data to Google Sheets)
+- https://www.astronomer.io/blog/airflow-dbt-1
+- https://github.com/astronomer/airflow-dbt-demo
 
 ## mvt
 - https://corporate-rebels.com/guest-blog-mvt/ (The Minimum Viable Team, A New Team Concept)
 - https://www.allankellyassociates.co.uk/archives/2011/minimally-viable-team-in-a-nutshell/
 - https://medium.com/crafting-empowerment/minimal-viable-team-self-managed-2416a882506d (Minimal Viable Team, self managed)
+
+## tis
+- https://www.goodreads.com/book/show/50748232-the-innovation-stack
 
 ## stack 1
 - big data -> gsheets -> pivot tables -> observable
