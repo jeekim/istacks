@@ -65,6 +65,10 @@
 
 ### observability/qa
 - https://github.com/evidentlyai/evidently
+- https://github.com/ing-bank/popmon
+
+### airbnb
+- https://medium.com/airbnb-engineering/airbnb-metric-computation-with-minerva-part-2-9afe6695b486
 
 ### geo
 - https://geopandas.org/
@@ -122,6 +126,9 @@
 - https://www.tensorflow.org/tutorials/interpretability/integrated_gradients
 - https://pair-code.github.io/what-if-tool/learn/tutorials/walkthrough/
 - https://christophm.github.io/interpretable-ml-book/
+
+### ai+human
+- https://www.accenture.com/us-en/blogs/technology-innovation/cahalane-uncovering-humanai-opportunities-through-experiments
 
 ### ml
 - https://developers.google.com/ml-kit
@@ -206,6 +213,7 @@
 - https://www.getcensus.com/ (data to Google Sheets)
 - https://www.astronomer.io/blog/airflow-dbt-1
 - https://github.com/astronomer/airflow-dbt-demo
+
 
 ## mvt
 - https://corporate-rebels.com/guest-blog-mvt/ (The Minimum Viable Team, A New Team Concept)
