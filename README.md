@@ -59,6 +59,7 @@
 ### metadata
 - https://datahubproject.io/
 - https://github.com/amundsen-io
+- https://egeria.odpi.org/ (Open Metadata and Governance)
 
 ### model
 - https://supermodel.io/
@@ -81,6 +82,13 @@
 
 ### data lakes
 - https://lakefs.io/ (atomic versioned data lakes)
+
+### lineage
+- https://github.com/OpenLineage/OpenLineage
+- https://datakin.com/ (Trust your data to transform your business) 
+
+### data discovery
+- https://medium.com/wbaa/facilitating-data-discovery-with-apache-atlas-and-amundsen-631baa287c8b
 
 ### data apps
 - https://streamlit.io/ (The fastest way to build and share data apps)
